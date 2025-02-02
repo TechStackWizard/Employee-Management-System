@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 - **Frontend:** ReactJS  
-- **State Management:** useState, useEffect, useConte t  
+- **State Management:** useState, useEffect, useContext
 - **Data Storage:** LocalStorage  
 
 ## 📂 Getting Started
