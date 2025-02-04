@@ -2,7 +2,7 @@
 
 **A simple and efficient Employee Management System built with React and localStorage to streamline task management between admins and employees.**
 
-**See Project Overview** : https://www.linkedin.com/posts/anshul-kumar-5505b9218_employeemanagement-taskmanagement-reactjs-activity-7291822039047278592-8agO?utm_source=share&utm_medium=member_desktop
+**See Project Overview** : [https://www.linkedin.com/posts/anshul-kumar-5505b9218_employeemanagement-taskmanagement-reactjs-activity-7291822039047278592-8agO?utm_source=share&utm_medium=member_desktop](https://shorturl.at/bXoQ1)
 
 ## 📌 Features
 ✅ **Admin Panel** – Create, assign, and track employee tasks.  
