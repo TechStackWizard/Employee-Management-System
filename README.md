@@ -2,7 +2,7 @@
 
 **A simple and efficient Employee Management System built with React and localStorage to streamline task management between admins and employees.**
 
-**See Project Overview** : [https://shorturl.at/bXoQ1]
+**See Project Overview** : [On Linkdin](https://shorturl.at/bXoQ1)
 
 ## 📌 Features
 ✅ **Admin Panel** – Create, assign, and track employee tasks.  
